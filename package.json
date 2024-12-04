@@ -1,0 +1,17 @@
+{
+  "name": "myBudgetify",
+  "version": "1.0.0",
+  "description": "Budgetify's Alexa skill that provides personalized financial insights and budgeting advice tailored to student users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Chen",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.14.0",
+    "ask-sdk-core": "^2.14.0",
+    "axios": "^1.7.8",
+    "dotenv": "^16.4.5"
+  }
+}
